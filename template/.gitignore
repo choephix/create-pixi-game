@@ -1,0 +1,9 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # 
+#   Remove this if you end up using PNPM like me  #
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+pnpm-lock.yaml
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+
+node_modules
+dist
+*.log

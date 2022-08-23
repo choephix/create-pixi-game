@@ -1,0 +1,19 @@
+{
+  "name": "create-pixi-game",
+  "version": "0.0.1",
+  "description": "Create games using PixiJS, TypeScript and Webpack.",
+  "main": "bin/index.js",
+  "bin": {
+    "create-pixi-game": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choephix/create-pixi-game.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/choephix/create-pixi-game.git",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
